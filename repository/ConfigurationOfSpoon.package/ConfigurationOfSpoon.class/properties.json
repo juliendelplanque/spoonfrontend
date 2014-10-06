@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfSpoon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfSpoon",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

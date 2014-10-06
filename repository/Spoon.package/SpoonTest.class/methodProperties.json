@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAdbTimeout" : "JulienDelplanque 9/22/2014 10:53",
+		"testApk" : "JulienDelplanque 9/22/2014 10:53",
+		"testClassName" : "JulienDelplanque 9/22/2014 10:54",
+		"testCreateCommand" : "JulienDelplanque 10/2/2014 07:25",
+		"testDontFailIfNoDeviceConnected" : "JulienDelplanque 10/2/2014 07:22",
+		"testDontFailOnFailure" : "JulienDelplanque 10/2/2014 07:24",
+		"testFailIfNoDeviceConnected" : "JulienDelplanque 10/2/2014 07:22",
+		"testFailOnFailure" : "JulienDelplanque 10/2/2014 07:24",
+		"testMethodNameClassName" : "JulienDelplanque 9/22/2014 11:48",
+		"testNoAnimations" : "JulienDelplanque 10/2/2014 07:26",
+		"testOutput" : "JulienDelplanque 9/22/2014 11:17",
+		"testPathToSpoonJar" : "JulienDelplanque 9/22/2014 11:19",
+		"testSdk" : "JulienDelplanque 9/22/2014 11:20",
+		"testSize" : "JulienDelplanque 9/22/2014 11:22",
+		"testTestApk" : "JulienDelplanque 9/22/2014 11:25",
+		"testTitle" : "JulienDelplanque 9/22/2014 11:25",
+		"testWithAnimations" : "JulienDelplanque 10/2/2014 07:26" } }

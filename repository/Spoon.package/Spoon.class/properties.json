@@ -1,0 +1,15 @@
+{
+	"category" : "Spoon-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/22/2014 14:44",
+	"instvars" : [
+		"args",
+		"pathToSpoonJar" ],
+	"name" : "Spoon",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

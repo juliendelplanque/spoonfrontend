@@ -1,0 +1,14 @@
+{
+	"category" : "Spoon-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BadParameterException",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }
