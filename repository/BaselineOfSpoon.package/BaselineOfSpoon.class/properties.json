@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSpoon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 10/7/2014 11:23",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSpoon",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
