@@ -16,5 +16,5 @@ Add Spoon as a dependency of your project by adding the following to your metace
 
 ~~~
 spec baseline: 'Spoon' with: [
-    spec repository: 'github://fstephany/spoonfrontend/repository' ].
+    spec repository: 'github://juliendelplanque/spoonfrontend/repository' ].
 ~~~
