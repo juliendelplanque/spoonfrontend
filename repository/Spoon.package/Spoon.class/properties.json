@@ -3,11 +3,10 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"pathToSpoonJar" ],
 	"commentStamp" : "JulienDelplanque 9/22/2014 14:44",
 	"instvars" : [
-		"args",
-		"pathToSpoonJar" ],
+		"args" ],
 	"name" : "Spoon",
 	"pools" : [
 		 ],

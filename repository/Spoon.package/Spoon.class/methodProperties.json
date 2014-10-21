@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"withSpoonJar:apk:testApk:" : "JulienDelplanque 9/22/2014 11:18" },
+		"apk:testApk:" : "JulienDelplanque 10/21/2014 11:18",
+		"setSpoonJar:" : "JulienDelplanque 10/21/2014 11:19" },
 	"instance" : {
 		"adbTimeout:" : "JulienDelplanque 9/22/2014 09:13",
 		"apk:" : "JulienDelplanque 9/22/2014 09:15",
