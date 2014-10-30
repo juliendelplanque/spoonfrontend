@@ -6,7 +6,8 @@
 		"pathToSpoonJar" ],
 	"commentStamp" : "JulienDelplanque 9/22/2014 14:44",
 	"instvars" : [
-		"args" ],
+		"args",
+		"outputFile" ],
 	"name" : "Spoon",
 	"pools" : [
 		 ],

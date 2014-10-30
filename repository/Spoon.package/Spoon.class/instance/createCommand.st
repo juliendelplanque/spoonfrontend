@@ -10,4 +10,6 @@ createCommand
 	keys sort.
 	keys do: [ :key |
 		command := command , ' ' , key , ' ' , (args at: key) ].
+	(outputFile = nil)
+	ifFalse: [ command := command , ' > ' , outputFile ].
 	^command
