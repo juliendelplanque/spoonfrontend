@@ -1,7 +1,7 @@
 testing
 testCreateCommand
 	| spoon |
-	spoon := Spoon apk: '/tmp/test/app.apk' testApk: '/tmp/test/test.apk'.
+	spoon := Spoon apk: (FileLocator temp / 'test' / 'app.apk') testApk: (FileLocator temp / 'test' / 'test.apk').
 	spoon adbTimeout: 5;
 			className: 'AClass';
 			failIfNoDeviceConnected;

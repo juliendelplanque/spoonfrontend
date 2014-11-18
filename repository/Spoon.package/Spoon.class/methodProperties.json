@@ -1,12 +1,12 @@
 {
 	"class" : {
-		"apk:testApk:" : "JulienDelplanque 10/21/2014 11:18",
-		"setSpoonJar:" : "JulienDelplanque 10/30/2014 15:52" },
+		"apk:testApk:" : "JulienDelplanque 11/18/2014 16:22",
+		"setSpoonJar:" : "JulienDelplanque 11/18/2014 16:18" },
 	"instance" : {
 		"adbTimeout:" : "JulienDelplanque 9/22/2014 09:13",
-		"apk:" : "JulienDelplanque 9/22/2014 09:15",
+		"apk:" : "JulienDelplanque 11/18/2014 16:20",
 		"className:" : "JulienDelplanque 9/22/2014 09:15",
-		"createCommand" : "JulienDelplanque 10/30/2014 15:57",
+		"createCommand" : "JulienDelplanque 11/18/2014 16:14",
 		"dontFailIfNoDeviceConnected" : "JulienDelplanque 10/2/2014 07:21",
 		"dontFailOnFailure" : "JulienDelplanque 10/2/2014 07:23",
 		"executeCommand" : "JulienDelplanque 10/31/2014 07:17",
@@ -20,6 +20,6 @@
 		"sdk:" : "JulienDelplanque 9/22/2014 09:20",
 		"setOutputFile:" : "JulienDelplanque 10/30/2014 15:54",
 		"size:" : "JulienDelplanque 9/22/2014 13:18",
-		"testApk:" : "JulienDelplanque 9/22/2014 09:27",
+		"testApk:" : "JulienDelplanque 11/18/2014 16:19",
 		"title:" : "JulienDelplanque 9/22/2014 09:27",
 		"withAnimations" : "JulienDelplanque 10/2/2014 07:25" } }

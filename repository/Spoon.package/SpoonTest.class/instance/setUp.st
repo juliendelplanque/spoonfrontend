@@ -1,3 +1,3 @@
 set up
 setUp
-	Spoon setSpoonJar: '/home/user/spoon.jar'
+	Spoon setSpoonJar: (FileLocator root / 'home' / 'user' / 'spoon.jar').
